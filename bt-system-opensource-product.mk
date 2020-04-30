@@ -22,12 +22,12 @@ PRODUCT_PACKAGES += com.qualcomm.qti.bluetooth_audio@1.0
 PRODUCT_PACKAGES += vendor.qti.hardware.bluetooth_audio@2.0
 PRODUCT_PACKAGES += vendor.qti.hardware.bluetooth_dun-V1.0-java
 # BT Related Test app & Tools
-PRODUCT_PACKAGES_DEBUG += BATestApp
-PRODUCT_PACKAGES_DEBUG += BTTestApp
-PRODUCT_PACKAGES_DEBUG += btsnoop
-PRODUCT_PACKAGES_DEBUG += gatt_tool_qti_internal
-PRODUCT_PACKAGES_DEBUG += l2test_ertm
-PRODUCT_PACKAGES_DEBUG += rfc
+PRODUCT_PACKAGES_ENG += BATestApp
+PRODUCT_PACKAGES_ENG += BTTestApp
+PRODUCT_PACKAGES_ENG += btsnoop
+PRODUCT_PACKAGES_ENG += gatt_tool_qti_internal
+PRODUCT_PACKAGES_ENG += l2test_ertm
+PRODUCT_PACKAGES_ENG += rfc
 else
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := vendor/qcom/opensource/commonsys-intf/bluetooth/build/generic/config
 endif #TARGET_FWK_SUPPORTS_FULL_VALUEADDS
