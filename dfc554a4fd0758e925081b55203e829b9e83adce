@@ -16,6 +16,23 @@
       "message": "where this is inherited, TARGET_USE_QTI_BT_STACK has to be set in device.mk",
       "revId": "dfc554a4fd0758e925081b55203e829b9e83adce",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0f65c5ea_b0f57144",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000427
+      },
+      "writtenOn": "2021-01-18T08:20:52Z",
+      "side": 1,
+      "message": "nvm ig",
+      "revId": "dfc554a4fd0758e925081b55203e829b9e83adce",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
