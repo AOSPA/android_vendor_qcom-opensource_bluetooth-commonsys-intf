@@ -1,5 +1,5 @@
 #ANT
-BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
+BOARD_ANT_WIRELESS_DEVICE ?= "qualcomm-hidl"
 
 #BT
 BOARD_HAVE_BLUETOOTH := true
