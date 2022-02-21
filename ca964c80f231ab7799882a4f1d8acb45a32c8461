@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7230cc0b_d56e6b24",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2022-02-21T16:42:16Z",
+      "side": 1,
+      "message": "which soc? should they inherit the legacy makefile instead\n\nhttps://github.com/AOSPA/android_vendor_qcom-opensource_bluetooth-commonsys-intf/blob/sapphire/bt-commonsys-intf-legacy-board.mk ",
+      "revId": "ca964c80f231ab7799882a4f1d8acb45a32c8461",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
