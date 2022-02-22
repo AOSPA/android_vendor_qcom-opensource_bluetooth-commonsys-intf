@@ -16,6 +16,24 @@
       "message": "which soc? should they inherit the legacy makefile instead\n\nhttps://github.com/AOSPA/android_vendor_qcom-opensource_bluetooth-commonsys-intf/blob/sapphire/bt-commonsys-intf-legacy-board.mk ",
       "revId": "ca964c80f231ab7799882a4f1d8acb45a32c8461",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3d667010_0cd4be82",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000765
+      },
+      "writtenOn": "2022-02-22T21:41:32Z",
+      "side": 1,
+      "message": "so should not I use qti bt as qti common component and include QTI BT makefiles in tree?",
+      "parentUuid": "7230cc0b_d56e6b24",
+      "revId": "ca964c80f231ab7799882a4f1d8acb45a32c8461",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
