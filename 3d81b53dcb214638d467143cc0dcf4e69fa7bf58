@@ -16,6 +16,24 @@
       "message": "we keep changing this.  are we in line with whatever we\u0027re referencing now?",
       "revId": "3d81b53dcb214638d467143cc0dcf4e69fa7bf58",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "407d4b2a_0ea31a17",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000737
+      },
+      "writtenOn": "2022-10-30T16:01:24Z",
+      "side": 1,
+      "message": "This is a change that came to the Pixel 7 device tree",
+      "parentUuid": "62997bd6_02b76722",
+      "revId": "3d81b53dcb214638d467143cc0dcf4e69fa7bf58",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
