@@ -51,6 +51,24 @@
       "message": "I assume we do support LE audio?",
       "revId": "3d81b53dcb214638d467143cc0dcf4e69fa7bf58",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6d207a5f_36462c12",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000737
+      },
+      "writtenOn": "2022-11-07T17:18:41Z",
+      "side": 1,
+      "message": "yes, qualcomm add that in A13 too",
+      "parentUuid": "3db24452_3459e270",
+      "revId": "3d81b53dcb214638d467143cc0dcf4e69fa7bf58",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
