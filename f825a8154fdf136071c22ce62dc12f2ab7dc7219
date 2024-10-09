@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "80bb7366_402e4b9e",
+        "filename": "bt-system-opensource-product.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1000737
+      },
+      "writtenOn": "2024-10-09T12:49:24Z",
+      "side": 0,
+      "message": "this is already present",
+      "revId": "f825a8154fdf136071c22ce62dc12f2ab7dc7219",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
