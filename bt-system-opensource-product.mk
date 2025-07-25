@@ -50,8 +50,6 @@ PRODUCT_SYSTEM_EXT_PROPERTIES += \
 ifneq ($(TARGET_HAS_LOW_RAM), true)
 PRODUCT_PACKAGES += Xpan
 PRODUCT_PACKAGES += privapp-permission-xpan.xml
-PRODUCT_PACKAGES += ChannelSoundingTestApp
-PRODUCT_PACKAGES += com.android.bluetooth.channelsoundingtestapp.xml
 endif #TARGET_HAS_LOW_RAM
 
 endif #TARGET_BOARD_TYPE
@@ -94,6 +92,8 @@ PRODUCT_PACKAGES_ENG += rfc
 
 ifneq ($(TARGET_HAS_LOW_RAM), true)
 PRODUCT_PACKAGES_ENG += BTTestApp
+PRODUCT_PACKAGES_ENG += ChannelSoundingTestApp
+PRODUCT_PACKAGES_ENG += com.android.bluetooth.channelsoundingtestapp.xml
 endif #TARGET_HAS_LOW_RAM
 
 else
